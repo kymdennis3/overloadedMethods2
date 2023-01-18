@@ -4,7 +4,7 @@ public class Main {
         // overloaded methods = methods that share the same name but have different parameters
         //                      method name + parameters = methods signature
 
-        int z = add(7,19, 4,99);
+        int z = add(7,19);
         System.out.println(z);
 
     }
